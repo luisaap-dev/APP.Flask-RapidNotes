@@ -20,7 +20,7 @@ Esta es una aplicación simple de gestión de notas implementada utilizando el f
 1. Clona este repositorio en tu máquina local:
 
 ```shell
-git clone https://github.com/luisaap-dev/Flask-RapidNotes
+git clone https://github.com/luisaap-dev/APP.Flask-RapidNotes
 ```
 
 2. Accede al directorio del repositorio:
